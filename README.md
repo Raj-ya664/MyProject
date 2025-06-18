@@ -1,2 +1,2 @@
-my proje
+my project
  
